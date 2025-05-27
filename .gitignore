@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.*   # if you use different env files like .env.production
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Debug/IDE tools
+.vscode/
+.idea/
+
+# Optional: Build or temp folders (if applicable)
+dist/
+build/
+tmp/
+temp/
+
+# Coverage output (if you're using Jest or similar tools)
+coverage/
+
+# Optional: Dependency lockfiles (use only one: package-lock, yarn.lock, or pnpm-lock)
+# Uncomment if not using a specific package manager
+# yarn.lock
+# pnpm-lock.yaml
