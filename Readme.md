@@ -8,4 +8,5 @@ The pipeline automatically installs dependencies, runs a build command, and exec
   testing again
   TESTIBF AGAIN
   supernab'
+  batman
   
